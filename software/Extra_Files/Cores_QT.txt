@@ -1,0 +1,123 @@
+🎨 Básicas (mais usadas)
+
+Preto: #000000
+Branco: #FFFFFF
+Cinzento muito escuro: #111111
+Cinzento escuro: #222222
+Cinzento médio: #666666
+Cinzento claro: #BBBBBB
+Quase branco: #F2F2F2
+
+
+🌑 “Dark UI” (bons fundos e contornos)
+Fundos
+
+#0D1117 (dark “GitHub”)
+#121212 (dark neutro)
+#1E1E1E (VS Code-ish)
+#222222 (o teu atual)
+#2B2B2B
+#303030
+#333333
+#3A3A3A
+
+Bordas / divisórias
+
+#3D3D3D
+#444444
+#555555
+#666666
+
+Texto em dark
+
+#FFFFFF (principal)
+#E6E6E6 (suave)
+#CFCFCF (secundário)
+#AAAAAA (placeholder)
+#777777 (desativado)
+
+
+🔵 Azuis (ação / seleção)
+
+#0078D7 (Windows / “Microsoft blue”)
+#1F6FEB (azul forte)
+#2D8CFF (azul vivo)
+#0A84FF (azul iOS)
+#4FC3F7 (azul claro)
+#005A9E (azul escuro)
+
+
+🟢 Verdes (sucesso / “start”)
+
+#4CAF50 (verde “material”)
+#22C55E (verde moderno)
+#00C853 (verde vivo)
+#2ECC71 (verde “emerald”)
+#00FF88 (neon/terminal)
+#1B5E20 (verde escuro)
+
+
+🔴 Vermelhos (stop / erro)
+
+#E53935 (erro)
+#FF3B30 (vermelho iOS)
+#DC2626 (vermelho forte)
+#B91C1C (vermelho escuro)
+#8B2222 (o teu “dark red” estilo close)
+#FF6B6B (vermelho suave)
+
+
+🟡 Amarelos/Laranjas (alerta / atenção)
+
+#FFC107 (amarelo material)
+#FFB300 (amarelo-âmbar)
+#F59E0B (laranja moderno)
+#FF9800 (laranja material)
+#FB8C00 (laranja escuro)
+#FFD166 (suave)
+
+
+🟣 Roxos (destaque)
+
+#7C3AED (roxo forte)
+#8E44AD (roxo clássico)
+#6D28D9 (roxo escuro)
+#A855F7 (roxo claro)
+#C084FC (lilás)
+
+
+💗 Pink/Ciano (accent moderno)
+
+Pink: #EC4899, #FF2D55, #FF69B4
+Ciano: #00BCD4, #22D3EE, #00E5FF
+
+
+🔍 “Combos” prontos (paletas completas)
+✅ Paleta “Dark + Microsoft Blue”
+
+Fundo: #222222
+Painel: #2B2B2B
+Borda: #555555
+Texto: #FFFFFF
+Placeholder: #AAAAAA
+Botão: #0078D7
+Hover: #2D8CFF
+Press: #005A9E
+
+✅ Paleta “Dark + Green”
+
+Fundo: #1E1E1E
+Painel: #2B2B2B
+Texto: #E6E6E6
+Botão: #22C55E
+Hover: #4CAF50
+Press: #1B5E20
+
+✅ Paleta “Terminal Neon”
+
+Fundo: #0B0F0E
+Painel: #111111
+Texto: #00FF88
+Placeholder: #777777
+Botão: #00FF88
+Texto botão: #000000

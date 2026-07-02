@@ -1,0 +1,112 @@
+{   "Filterwheel_1":
+        {
+            "filter_11": {
+                "tooltip": "DAPI\n525nm/50",
+                "icon_file": "F_11.png",
+                "position_on_filterwheel": 0,
+                "condition": "Good (17/02/2025)",
+                "name": "DAPI",
+                "spectrum": "525nm/50"
+            },
+
+            "filter_12": {
+                "tooltip": "GFP\n525nm/50",
+                "icon_file": "F_12.png",
+                "position_on_filterwheel": 1,
+                "condition": "Good (17/02/2025)",
+                "name": "GFP",
+                "spectrum": "525nm/50"
+            },
+
+            "filter_13": {
+                "tooltip": "YFP\n545nm/25",
+                "icon_file": "F_13.png",
+                "position_on_filterwheel": 2,
+                "condition": "Bad (17/02/2025)",
+                "name": "YFP",
+                "spectrum": "545nm/25"
+            },
+
+            "filter_14": {
+                "tooltip": "Alexa 568\n610nm/75",
+                "icon_file": "F_14.png",
+                "position_on_filterwheel": 3,
+                "condition": "Good (17/02/2025)",
+                "name": "Alexa 568",
+                "spectrum": "610nm/75"
+            },
+
+            "filter_15": {
+                "tooltip": "Alexa 647\n700nm/75",
+                "icon_file": "F_15.png",
+                "position_on_filterwheel": 4,
+                "condition": "Good (17/02/2025)",
+                "name": "Alexa 647",
+                "spectrum": "700nm/75"
+            },
+
+            "empty": {
+                "tooltip": "Empty",
+                "icon_file": "empty.png",
+                "position_on_filterwheel": 5,
+                "name": "No filter",
+                "spectrum": ""
+            }
+        },
+
+   "Filterwheel_2":
+        {
+            "filter_21": {
+                "tooltip": "DAPI\n452nm/45",
+                "icon_file": "F_21.png",
+                "position_on_filterwheel": 0,
+                "condition": "Good (17/02/2025)",
+                "name": "DAPI",
+                "spectrum": "452nm/45"
+            },
+
+            "filter_22": {
+                "tooltip": "GFP\n525nm/50",
+                "icon_file": "F_22.png",
+                "position_on_filterwheel": 1,
+                "condition": "New (17/02/2025)",
+                "name": "GFP",
+                "spectrum": "525nm/50"
+            },
+
+            "filter_23": {
+                "tooltip": "YFP\n537nm/29",
+                "icon_file": "F_23.png",
+                "position_on_filterwheel": 2,
+                "condition": "Good (17/02/2025)",
+                "name": "YFP",
+                "spectrum": "537nm/29"
+            },
+
+            "filter_24": {
+                "tooltip": "Alexa 568\n610nm/75",
+                "icon_file": "F_24.png",
+                "position_on_filterwheel": 3,
+                "condition": "New (17/02/2025)",
+                "name": "Alexa 568",
+                "spectrum": "610nm/75"
+            },
+
+            "filter_25": {
+                "tooltip": "Alexa 647\n710nm/75",
+                "icon_file": "F_25.png",
+                "position_on_filterwheel": 4,
+                "condition": "New (17/02/2025)",
+                "name": "Alexa 647",
+                "spectrum": "710nm/75"
+            },
+
+            "empty": {
+                "tooltip": "Empty",
+                "icon_file": "empty.png",
+                "position_on_filterwheel": 5,
+                "name": "No filter",
+                "spectrum": ""
+            }
+        }
+}
